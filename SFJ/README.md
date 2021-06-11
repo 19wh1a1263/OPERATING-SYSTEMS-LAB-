@@ -1,4 +1,4 @@
- #NRound Robin
+# Round Robin
 
 ## AIM: Write a C program to implement the various process scheduling mechanisms such as Round
 Robin Scheduling.
